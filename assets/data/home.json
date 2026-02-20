@@ -1,0 +1,84 @@
+{
+  "topImages": [
+    {
+      "image": "assets/images/statue1.png",
+      "title": "Statue of Unity"
+    },
+    {
+      "image": "assets/images/statue2.png",
+      "title": "Tokyo City"
+    },
+    {
+      "image": "assets/images/statue1.png",
+      "title": "Statue of Unity"
+    },
+    {
+      "image": "assets/images/statue2.png",
+      "title": "Tokyo City"
+    }
+  ],
+  "destinations": [
+    {
+      "image": "assets/images/jaipur1.png",
+      "title": "Jaipur, Rajasthan1",
+      "country": "India",
+      "description": "The Hawa Mahal is a palace in the city of Jaipur, Rajasthan, India. Built from red and pink sandstone, it is on the edge of the City Palace, Jaipur, and extends to the Zenana, or women's chambers. The structure was built in 1799 by the Maharaja Sawai Pratap Singh, grandson of Maharaja Sawai Jai Singh, the founder of the city of Jhunjhunu in the state of Rajasthan.[1] He was so inspired by the unique structure of Khetri Mahal that he built this grand and historical palace.",
+      "rating": 4.5,
+      "reviews": "45K",
+      "architecture": "Hindu Rajput Architecture",
+      "address": "Jaipur, Rajasthan"
+    },
+    {
+      "image": "assets/images/jaipur2.png",
+      "title": "Kichijoji, Tokyo1",
+      "country": "Japan",
+      "description": "The Hawa Mahal is a palace in the city of Jaipur, Rajasthan, India. Built from red and pink sandstone, it is on the edge of the City Palace, Jaipur, and extends to the Zenana, or women's chambers. The structure was built in 1799 by the Maharaja Sawai Pratap Singh, grandson of Maharaja Sawai Jai Singh, the founder of the city of Jhunjhunu in the state of Rajasthan.[1] He was so inspired by the unique structure of Khetri Mahal that he built this grand and historical palace.",
+      "rating": 4.5,
+      "reviews": "45K",
+      "architecture": "Hindu Rajput Architecture",
+      "address": "Jaipur, Rajasthan"
+    },
+    {
+      "image": "assets/images/jaipur1.png",
+      "title": "Jaipur, Rajasthan2",
+      "country": "India",
+      "description": "The Hawa Mahal is a palace in the city of Jaipur, Rajasthan, India. Built from red and pink sandstone, it is on the edge of the City Palace, Jaipur, and extends to the Zenana, or women's chambers. The structure was built in 1799 by the Maharaja Sawai Pratap Singh, grandson of Maharaja Sawai Jai Singh, the founder of the city of Jhunjhunu in the state of Rajasthan.[1] He was so inspired by the unique structure of Khetri Mahal that he built this grand and historical palace.",
+      "rating": 4.5,
+      "reviews": "45K",
+      "architecture": "Hindu Rajput Architecture",
+      "address": "Jaipur, Rajasthan"
+    },
+    {
+      "image": "assets/images/jaipur2.png",
+      "title": "Kichijoji, Tokyo2",
+      "country": "Japan",
+      "description": "The Hawa Mahal is a palace in the city of Jaipur, Rajasthan, India. Built from red and pink sandstone, it is on the edge of the City Palace, Jaipur, and extends to the Zenana, or women's chambers. The structure was built in 1799 by the Maharaja Sawai Pratap Singh, grandson of Maharaja Sawai Jai Singh, the founder of the city of Jhunjhunu in the state of Rajasthan.[1] He was so inspired by the unique structure of Khetri Mahal that he built this grand and historical palace.",
+      "rating": 4.5,
+      "reviews": "45K",
+      "architecture": "Hindu Rajput Architecture",
+      "address": "Jaipur, Rajasthan"
+    }
+  ],
+  "hotels": [
+    {
+      "image": "assets/images/hotel1.png",
+      "title": "Taj Hotel",
+      "location": "Mumbai"
+    },
+    {
+      "image": "assets/images/hotel2.png",
+      "title": "Marina Bay",
+      "location": "Singapore"
+    },
+    {
+      "image": "assets/images/hotel1.png",
+      "title": "Taj Hotel",
+      "location": "Mumbai"
+    },
+    {
+      "image": "assets/images/hotel2.png",
+      "title": "Marina Bay",
+      "location": "Singapore"
+    }
+  ]
+}

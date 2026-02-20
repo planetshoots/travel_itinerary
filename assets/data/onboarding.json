@@ -1,0 +1,17 @@
+[
+  {
+    "image": "assets/images/intro1.png",
+    "title": "Welcome to travel app",
+    "description": "Embark on your next adventure with our travel app! Discover new destinations, plan seamless journeys, and create unforgettable memories."
+  },
+  {
+    "image": "assets/images/intro2.png",
+    "title": "Select Your Resting place",
+    "description": "Indulge in tranquility and comfort. Choose your perfect resting place with us, where serenity meets luxury."
+  },
+  {
+    "image": "assets/images/intro3.png",
+    "title": "Enjoy Your Trip",
+    "description": "Embrace the joy of travel! Explore new horizons and create lasting memories."
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "title": "Travel preferences ✈️",
+  "description": "Tell us your travel preferences, and we’ll tailor recommendation to your style. Don’t worry, you can always change it later in the settings.",
+  "preferences": [
+    { "title": "Adventure Travel", "emoji": "🏕️" },
+    { "title": "Camping", "emoji": "⛺" },
+    { "title": "City Breaks", "emoji": "🏙️" },
+    { "title": "Backpacking", "emoji": "🎒" },
+    { "title": "Nature Escapes", "emoji": "🌿" },
+    { "title": "Road Trip", "emoji": "🚗" },
+    { "title": "Food Tourism", "emoji": "🍔" },
+    { "title": "Staycations", "emoji": "🏠" },
+    { "title": "Wildlife Safaris", "emoji": "🦁" },
+    { "title": "Beaches", "emoji": "🏖️" }
+  ]
+}
